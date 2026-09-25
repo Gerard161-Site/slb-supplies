@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://slb-supplies.co.uk/sitemap.xml
