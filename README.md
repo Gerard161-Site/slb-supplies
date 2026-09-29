@@ -30,7 +30,7 @@ Opening the files directly won't work, because links start at the site root (`/s
 
 ## Notes
 
-- `info@slbsuppliesltd.co.uk` (shown on the site) is a GoDaddy mailbox on the old domain. Keep the old domain's email running, or change the address in the HTML.
+- `info@slb-supplies.co.uk` (shown on the site) is a GoDaddy mailbox on the old domain. Keep the old domain's email running, or change the address in the HTML.
 - The contact form uses Netlify Forms, with a honeypot field for spam.
 
 ## Photo credits
